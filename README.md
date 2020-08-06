@@ -1,6 +1,6 @@
 ### Welcome to My Github 👋
 
-<img src="https://welcome.png"/>
+<img src="welcome.png"/>
 
 - 🏫 I go to Santa Monics College
 - 💬 I am from Compton, CA
