@@ -2,7 +2,7 @@
 
 <img src="welcome.png"/>
 
-- 🏫 I go to Santa Monics College
+- 🏫 I go to Santa Monica College
 - 💬 I am from Compton, CA
 - 🔭 I’m currently working on a North Star loactor using NASA API
 - 🌱 I’m currently learning JS
