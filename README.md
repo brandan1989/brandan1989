@@ -1,6 +1,6 @@
 ### Welcome to My Github 👋
 
-<img src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216.gif">
+<img src="welcome.png">
 
 - 🏫 I go to Santa Monica College
 - 💬 I am from Compton, CA
