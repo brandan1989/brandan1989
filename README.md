@@ -2,9 +2,8 @@
 
 <img src="welcome.png" width="900" height="294">
 
-- 🏫 I go to Santa Monica College
+- 🏫 I go to UC Berkeley
 - 💬 I'm from Compton, CA
-- 🔭 I’m currently working on a North Star loactor using NASA API
-- 🌱 I’m currently learning JS
+- 🔭 I’m currently studying Computer Science
 - 👯 I’m looking to collaborate on fun projects
-- 📫 How to reach me: brandanherron@icloud.com
+- 📫 How to reach me: brandanherron@berkeley.edu
